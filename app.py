@@ -441,7 +441,7 @@ def calculate_gap_data():
 # PAGE 3: DASHBOARD
 # ---------------------------------------------------------
 
-elif page == "3. Change-Ready Dashboard":
+if page == "3. Change-Ready Dashboard":
 
     st.header(text["dashboard"])
 
