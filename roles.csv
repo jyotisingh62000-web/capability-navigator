@@ -1,0 +1,31 @@
+role,skill,required_level,importance
+HR Executive,HR Operations,4,High
+HR Executive,Employee Support,4,High
+HR Executive,Stakeholder Communication,3,Medium
+HR Executive,Workforce Analytics,2,Medium
+HR Executive,Data Storytelling,2,Medium
+HR Executive,Strategic Problem-Solving,2,Medium
+HR Executive,AI Application in HR,1,Low
+Strategic HR Business Partner,HR Operations,4,Medium
+Strategic HR Business Partner,Employee Support,3,Low
+Strategic HR Business Partner,Stakeholder Communication,5,High
+Strategic HR Business Partner,Workforce Analytics,5,High
+Strategic HR Business Partner,Data Storytelling,4,High
+Strategic HR Business Partner,Strategic Problem-Solving,5,High
+Strategic HR Business Partner,AI Application in HR,4,High
+Data Analyst,Data Analysis,5,High
+Data Analyst,Data Visualisation,4,High
+Data Analyst,SQL,5,High
+Data Analyst,Business Communication,3,Medium
+Senior Data Analyst,Data Analysis,5,High
+Senior Data Analyst,Data Visualisation,5,High
+Senior Data Analyst,SQL,5,High
+Senior Data Analyst,Business Communication,5,High
+Senior Data Analyst,Strategic Problem-Solving,4,High
+Sales Executive,Customer Engagement,4,High
+Sales Executive,Negotiation,3,Medium
+Sales Executive,Data Analysis,2,Low
+Sales Manager,Customer Engagement,5,High
+Sales Manager,Negotiation,5,High
+Sales Manager,Data Analysis,4,High
+Sales Manager,Team Leadership,5,High
