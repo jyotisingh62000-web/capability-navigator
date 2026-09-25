@@ -1,0 +1,13 @@
+course_id,title,provider,skill,level,duration,language,format,practical_project,url
+C001,AI for Workforce Analytics,FutureSkills Prime,AI Application in HR,Intermediate,4 weeks,English,Online,Yes,https://www.futureskillsprime.in/
+C002,People Analytics Fundamentals,FutureSkills Prime,Workforce Analytics,Beginner,4 weeks,English,Online,Yes,https://www.futureskillsprime.in/
+C003,Data Storytelling for Managers,NPTEL,Data Storytelling,Intermediate,6 weeks,English,Online,Yes,https://nptel.ac.in/
+C004,Strategic Problem Solving,Skill India Digital Hub,Strategic Problem-Solving,Intermediate,3 weeks,Hindi,Online,Yes,https://www.skillindiadigital.gov.in/
+C005,Stakeholder Communication,NPTEL,Stakeholder Communication,Intermediate,4 weeks,English,Online,No,https://nptel.ac.in/
+C006,SQL for Data Analysis,NPTEL,SQL,Intermediate,8 weeks,English,Online,Yes,https://nptel.ac.in/
+C007,Management Data Visualisation,FutureSkills Prime,Data Visualisation,Intermediate,4 weeks,English,Online,Yes,https://www.futureskillsprime.in/
+C008,Negotiation for Business Professionals,Skill India Digital Hub,Negotiation,Intermediate,3 weeks,Hindi,Online,Yes,https://www.skillindiadigital.gov.in/
+C009,Customer Engagement Essentials,Skill India Digital Hub,Customer Engagement,Beginner,3 weeks,Kannada,Online,Yes,https://www.skillindiadigital.gov.in/
+C010,Leading High-Performance Teams,NPTEL,Team Leadership,Advanced,6 weeks,English,Online,Yes,https://nptel.ac.in/
+C011,Business Communication for Analysts,NPTEL,Business Communication,Intermediate,4 weeks,English,Online,Yes,https://nptel.ac.in/
+C012,Responsible AI for HR,FutureSkills Prime,AI Application in HR,Intermediate,3 weeks,English,Online,Yes,https://www.futureskillsprime.in/
