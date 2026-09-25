@@ -1,0 +1,11 @@
+challenge_id,skill,title,task,deliverable,validator
+CH001,AI Application in HR,Responsible AI Use Case for HR,Design an AI-enabled solution for one HR process while identifying privacy fairness and human oversight requirements,One-page solution proposal,HR domain expert
+CH002,Workforce Analytics,Employee Attrition Analysis,Analyse a fictional attrition dataset and identify three workforce patterns,One chart and three recommendations,Project manager
+CH003,Data Storytelling,Leadership Insight Story,Convert workforce data into a concise story for business leaders,Three-slide management presentation,Communication expert
+CH004,Strategic Problem-Solving,HR Business Case,Diagnose a fictional workforce problem and recommend a structured solution,Problem tree and action plan,HR business partner
+CH005,SQL,Customer Data Query,Write queries to answer five fictional business questions,SQL query file,Data expert
+CH006,Data Visualisation,Management Dashboard,Create a dashboard using fictional operational data,One-page dashboard,Analytics expert
+CH007,Negotiation,Supplier Negotiation Simulation,Respond to a fictional supplier negotiation scenario,Recorded or written response,Sales manager
+CH008,Team Leadership,Team Capacity Plan,Create a development and allocation plan for a fictional team,One-page team plan,Project owner
+CH009,Customer Engagement,Customer Recovery Scenario,Respond to a fictional customer complaint and propose recovery actions,Written response,Customer experience expert
+CH010,Business Communication,Executive Summary,Convert a detailed analysis into a management-ready summary,Two-hundred-word executive summary,Business reviewer
